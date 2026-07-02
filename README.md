@@ -20,7 +20,7 @@
 - 🎓 MS Computer Science, **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)**
 - 🔬 Research focus: **ML Systems (MLSys), Efficient Deep Learning, Edge AI Systems**
 - 🧭 Current thesis: A Deep Reinforcement Learning Approach for Low-Latency Parallel Computation Offloading in Multi-Tier MEC
-- 🎯 Applying for fully funded **PhD programs, Fall 2027**
+- 🎯 Applying for **PhD programs, Fall 2027**
 - 🛠️ Background in full-stack production engineering — used here to build the simulation testbeds and profiling pipelines the research runs on, not as a separate track
 
 ---
