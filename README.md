@@ -11,7 +11,7 @@
 
 ### Research Statement
 
-> I work on Mobile Edge Computing (MEC) systems, moving computational offloading and resource allocation away from intractable offline search and static supervised models toward model-free, adaptive Deep Reinforcement Learning (DRL) orchestration. My evaluation methodology is systems-first: focusing on inference latency, CPU/memory footprint, and the computational overhead of the orchestration agent itself on constrained edge nodes, alongside robustness under adversarial or noisy telemetry. The goal is orchestration that is not just theoretically optimal, but physically deployable.
+> I work on Mobile Edge Computing (MEC) systems, moving computational offloading and resource allocation away from intractable offline search and static supervised models toward model-free, adaptive Deep Reinforcement Learning (DRL) orchestration. My current methodology is systems-first: focusing on real-time inference latency, CPU/memory footprint, and the computational overhead of the orchestration agent itself on constrained edge nodes. As I look toward my PhD, my goal is to extend this deployable architecture by securing these centralized DRL agents against adversarial perturbations and noisy telemetry. My ultimate objective is orchestration that is not just theoretically optimal and physically deployable, but actively trustworthy.
 
 ---
 
