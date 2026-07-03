@@ -3,11 +3,10 @@
 
 <p align="center">
  <a href="mailto:adeel.rehman.cs@gmail.com">
-  <img src="https://img.shields.io/badge/Email-adeel.rehman.cs%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/Email-adeel.rehman.cs%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PhD%20Aspirant-Fall%202027-4A235A?style=flat-square&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/MS%20CS-GIKI%20Pakistan-1F3864?style=flat-square&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ML%20Systems-Edge%20AI%20%26%20DRL-2E75B6?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML%20Systems-Edge%20AI%20%26%20DRL-2E75B6?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
 
 ---
