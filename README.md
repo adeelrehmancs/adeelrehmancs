@@ -2,11 +2,13 @@
 <p align="center"><i>ML Systems & Efficient AI Researcher · Edge Computing</i></p>
 
 <p align="center">
- <a href="mailto:adeel.rehman.cs@gmail.com">
-  <img src="https://img.shields.io/badge/Email-adeel.rehman.cs%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+ <!-- <a href="mailto:adeel.rehman.cs@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> -->
+ <a href="https://www.linkedin.com/in/adeelrehmancs">
+  <img src="https://img.shields.io/badge/LinkedIn-Adeel%20ur%20Rehman-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PhD%20Aspirant-Fall%202027-4A235A?style=flat-square&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/MS%20CS-GIKI%20Pakistan-1F3864?style=flat-square&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/ML%20Systems-Edge%20AI%20%26%20DRL-2E75B6?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stanford-Code%20in%20Place%20Leader%20×2-8C1515?style=flat-square&logoColor=white"/>
 </p>
 
 ---
@@ -31,19 +33,21 @@
 
 **ML Research & Systems**
 
-| Area | Tools |
-|---|---|
-| Languages | Python, Bash |
-| ML / DRL | PyTorch, NumPy |
-| Systems | Linux, Docker, Distributed Network Simulations |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Full-Stack Production Engineering** *(2 years)*
+**Full-Stack Engineering** *(2 years production)*
 
-| Area | Tools |
-|---|---|
-| Frontend | Next.js, React, TypeScript, Tailwind CSS |
-| Backend / Infra | Supabase, Stripe |
-
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ---
 
 ### Featured Research Projects
@@ -63,7 +67,8 @@
 
 ### Hackathons & Competitive Building
 
-Active builder across Lablab AI hackathons, CALICO coding competition, Meta Hacker Cup, and Harvard CS50 Puzzle Day.
+Active builder across Lablab AI hackathons and UC Berkeley CALICO.
+Participating in Advent of Code (December 2026) and Meta Hacker Cup (2026).
 
 ---
 
